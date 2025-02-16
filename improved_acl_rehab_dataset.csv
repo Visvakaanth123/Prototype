@@ -1,0 +1,501 @@
+Injury Name,Age,"Gender (0=Male, 1=Female)",Recovery Time (Months),Recovery Stage,Rehab Phase,Exercise,Sets,Reps,Recovery Tips
+ACL Tear,21,1,8,Late,Phase 3 - Agility & Power,Depth Jumps,3,14,Strengthen hip & core muscles for better knee alignment.
+ACL Tear,33,0,6,Mid,Phase 3 - Agility & Power,Bounding Drills,2,13,Strengthen hip & core muscles for better knee alignment.
+ACL Tear,36,0,5,Mid,Phase 4 - Return to Sport,Sprint Drills,3,11,Plyometrics should be introduced carefully—start slow & progress intensity.
+ACL Tear,15,1,5,Mid,Phase 2 - Strength,Step-ups,3,18,Gradually increase load while maintaining control. Strength before power!
+ACL Tear,24,1,7,Late,Phase 4 - Return to Sport,Sport-Specific Drills,3,12,Simulate game-like movements to prepare for real conditions.
+ACL Tear,34,1,4,Mid,Phase 3 - Agility & Power,Jump Rope,2,16,Work on controlled landings to prevent future injuries.
+ACL Tear,23,0,5,Mid,Phase 4 - Return to Sport,Box Jumps,3,11,Assess movement patterns to ensure safe return to cutting & sprinting.
+ACL Tear,23,1,8,Late,Phase 2 - Strength,Leg Press,3,16,Gradually increase load while maintaining control. Strength before power!
+ACL Tear,22,0,6,Mid,Phase 2 - Strength,Step-ups,3,11,Focus on quad activation to stabilize the knee and prevent compensations.
+ACL Tear,20,1,5,Mid,Phase 4 - Return to Sport,Sprint Drills,2,11,Assess movement patterns to ensure safe return to cutting & sprinting.
+ACL Tear,26,1,5,Mid,Phase 2 - Strength,Leg Press,3,17,Focus on quad activation to stabilize the knee and prevent compensations.
+ACL Tear,37,1,4,Mid,Phase 2 - Strength,Leg Press,2,11,Avoid excessive fatigue; overtraining can slow recovery.
+ACL Tear,35,1,5,Mid,Phase 1 - Early Rehab,Straight Leg Raises,3,18,Focus on mobility and reducing swelling. Avoid excessive strain.
+ACL Tear,29,0,4,Mid,Phase 1 - Early Rehab,Ankle Pumps,2,17,Focus on mobility and reducing swelling. Avoid excessive strain.
+ACL Tear,26,1,11,Full Return,Phase 3 - Agility & Power,Depth Jumps,2,10,Strengthen hip & core muscles for better knee alignment.
+ACL Tear,17,0,6,Mid,Phase 1 - Early Rehab,Quad Sets,2,19,Focus on mobility and reducing swelling. Avoid excessive strain.
+ACL Tear,21,0,11,Full Return,Phase 4 - Return to Sport,Sprint Drills,2,16,Simulate game-like movements to prepare for real conditions.
+ACL Tear,38,0,6,Mid,Phase 4 - Return to Sport,Sprint Drills,2,12,Plyometrics should be introduced carefully—start slow & progress intensity.
+ACL Tear,17,0,10,Full Return,Phase 2 - Strength,Squats,2,14,Focus on quad activation to stabilize the knee and prevent compensations.
+ACL Tear,37,0,9,Late,Phase 3 - Agility & Power,Depth Jumps,2,19,Incorporate lateral movements to regain multi-directional control.
+ACL Tear,27,0,10,Full Return,Phase 4 - Return to Sport,Sport-Specific Drills,2,13,Plyometrics should be introduced carefully—start slow & progress intensity.
+ACL Tear,18,1,8,Late,Phase 3 - Agility & Power,Depth Jumps,2,13,Work on controlled landings to prevent future injuries.
+ACL Tear,21,0,6,Mid,Phase 2 - Strength,Leg Press,3,19,Gradually increase load while maintaining control. Strength before power!
+ACL Tear,39,0,9,Late,Phase 4 - Return to Sport,Sprint Drills,3,19,Simulate game-like movements to prepare for real conditions.
+ACL Tear,39,0,9,Late,Phase 1 - Early Rehab,Heel Slides,2,18,Focus on mobility and reducing swelling. Avoid excessive strain.
+ACL Tear,23,0,10,Full Return,Phase 2 - Strength,Leg Press,2,18,Focus on quad activation to stabilize the knee and prevent compensations.
+ACL Tear,19,0,6,Mid,Phase 2 - Strength,Leg Press,3,15,Gradually increase load while maintaining control. Strength before power!
+ACL Tear,34,0,9,Late,Phase 1 - Early Rehab,Quad Sets,3,16,Use ice and compression to manage pain. Perform gentle ROM exercises.
+ACL Tear,17,0,8,Late,Phase 1 - Early Rehab,Straight Leg Raises,2,10,Use ice and compression to manage pain. Perform gentle ROM exercises.
+ACL Tear,16,1,9,Late,Phase 3 - Agility & Power,Jump Rope,3,10,Work on controlled landings to prevent future injuries.
+ACL Tear,33,1,5,Mid,Phase 1 - Early Rehab,Straight Leg Raises,3,15,Start with non-weight-bearing movements before progressing to standing exercises.
+ACL Tear,18,0,6,Mid,Phase 4 - Return to Sport,Sport-Specific Drills,2,15,Plyometrics should be introduced carefully—start slow & progress intensity.
+ACL Tear,34,1,9,Late,Phase 2 - Strength,Squats,2,10,Gradually increase load while maintaining control. Strength before power!
+ACL Tear,20,1,8,Late,Phase 3 - Agility & Power,Bounding Drills,3,13,Strengthen hip & core muscles for better knee alignment.
+ACL Tear,17,0,6,Mid,Phase 4 - Return to Sport,Sport-Specific Drills,3,18,Plyometrics should be introduced carefully—start slow & progress intensity.
+ACL Tear,22,1,10,Full Return,Phase 2 - Strength,Leg Press,2,18,Gradually increase load while maintaining control. Strength before power!
+ACL Tear,32,0,10,Full Return,Phase 2 - Strength,Lunges,2,16,Focus on quad activation to stabilize the knee and prevent compensations.
+ACL Tear,30,0,7,Late,Phase 4 - Return to Sport,Box Jumps,3,10,Assess movement patterns to ensure safe return to cutting & sprinting.
+ACL Tear,26,0,8,Late,Phase 4 - Return to Sport,Sport-Specific Drills,2,18,Plyometrics should be introduced carefully—start slow & progress intensity.
+ACL Tear,17,0,11,Full Return,Phase 4 - Return to Sport,Sport-Specific Drills,3,17,Assess movement patterns to ensure safe return to cutting & sprinting.
+ACL Tear,38,0,11,Full Return,Phase 4 - Return to Sport,Sport-Specific Drills,2,17,Assess movement patterns to ensure safe return to cutting & sprinting.
+ACL Tear,22,1,9,Late,Phase 3 - Agility & Power,Bounding Drills,3,18,Strengthen hip & core muscles for better knee alignment.
+ACL Tear,39,0,5,Mid,Phase 4 - Return to Sport,Sprint Drills,3,11,Assess movement patterns to ensure safe return to cutting & sprinting.
+ACL Tear,17,1,8,Late,Phase 1 - Early Rehab,Straight Leg Raises,2,13,Focus on mobility and reducing swelling. Avoid excessive strain.
+ACL Tear,28,0,11,Full Return,Phase 4 - Return to Sport,Sport-Specific Drills,2,10,Plyometrics should be introduced carefully—start slow & progress intensity.
+ACL Tear,30,1,6,Mid,Phase 3 - Agility & Power,Lateral Drills,2,15,Incorporate lateral movements to regain multi-directional control.
+ACL Tear,20,1,8,Late,Phase 3 - Agility & Power,Lateral Drills,3,11,Work on controlled landings to prevent future injuries.
+ACL Tear,15,1,10,Full Return,Phase 4 - Return to Sport,Box Jumps,2,12,Simulate game-like movements to prepare for real conditions.
+ACL Tear,31,1,4,Mid,Phase 4 - Return to Sport,Sprint Drills,2,14,Assess movement patterns to ensure safe return to cutting & sprinting.
+ACL Tear,17,1,4,Mid,Phase 1 - Early Rehab,Straight Leg Raises,2,10,Use ice and compression to manage pain. Perform gentle ROM exercises.
+ACL Tear,35,0,6,Mid,Phase 4 - Return to Sport,Box Jumps,3,14,Simulate game-like movements to prepare for real conditions.
+ACL Tear,15,1,6,Mid,Phase 4 - Return to Sport,Sprint Drills,2,19,Simulate game-like movements to prepare for real conditions.
+ACL Tear,36,1,6,Mid,Phase 4 - Return to Sport,Sprint Drills,3,11,Simulate game-like movements to prepare for real conditions.
+ACL Tear,36,0,5,Mid,Phase 3 - Agility & Power,Depth Jumps,3,11,Incorporate lateral movements to regain multi-directional control.
+ACL Tear,31,1,4,Mid,Phase 1 - Early Rehab,Ankle Pumps,3,16,Focus on mobility and reducing swelling. Avoid excessive strain.
+ACL Tear,24,0,5,Mid,Phase 3 - Agility & Power,Lateral Drills,2,17,Work on controlled landings to prevent future injuries.
+ACL Tear,21,0,7,Late,Phase 1 - Early Rehab,Straight Leg Raises,2,17,Use ice and compression to manage pain. Perform gentle ROM exercises.
+ACL Tear,30,1,7,Late,Phase 3 - Agility & Power,Depth Jumps,2,11,Incorporate lateral movements to regain multi-directional control.
+ACL Tear,37,0,9,Late,Phase 3 - Agility & Power,Jump Rope,3,15,Incorporate lateral movements to regain multi-directional control.
+ACL Tear,36,0,7,Late,Phase 2 - Strength,Lunges,2,15,Avoid excessive fatigue; overtraining can slow recovery.
+ACL Tear,19,0,11,Full Return,Phase 1 - Early Rehab,Straight Leg Raises,3,14,Start with non-weight-bearing movements before progressing to standing exercises.
+ACL Tear,18,1,8,Late,Phase 4 - Return to Sport,Sprint Drills,2,12,Simulate game-like movements to prepare for real conditions.
+ACL Tear,22,1,11,Full Return,Phase 1 - Early Rehab,Quad Sets,3,19,Use ice and compression to manage pain. Perform gentle ROM exercises.
+ACL Tear,33,0,11,Full Return,Phase 3 - Agility & Power,Depth Jumps,3,19,Strengthen hip & core muscles for better knee alignment.
+ACL Tear,19,1,8,Late,Phase 2 - Strength,Squats,2,18,Gradually increase load while maintaining control. Strength before power!
+ACL Tear,15,1,5,Mid,Phase 1 - Early Rehab,Ankle Pumps,3,15,Focus on mobility and reducing swelling. Avoid excessive strain.
+ACL Tear,22,0,8,Late,Phase 1 - Early Rehab,Straight Leg Raises,2,16,Start with non-weight-bearing movements before progressing to standing exercises.
+ACL Tear,19,1,8,Late,Phase 3 - Agility & Power,Depth Jumps,3,19,Strengthen hip & core muscles for better knee alignment.
+ACL Tear,19,1,4,Mid,Phase 1 - Early Rehab,Quad Sets,3,14,Start with non-weight-bearing movements before progressing to standing exercises.
+ACL Tear,31,1,9,Late,Phase 2 - Strength,Leg Press,2,19,Focus on quad activation to stabilize the knee and prevent compensations.
+ACL Tear,30,0,10,Full Return,Phase 4 - Return to Sport,Box Jumps,3,14,Simulate game-like movements to prepare for real conditions.
+ACL Tear,24,1,8,Late,Phase 4 - Return to Sport,Sprint Drills,3,19,Assess movement patterns to ensure safe return to cutting & sprinting.
+ACL Tear,33,1,11,Full Return,Phase 1 - Early Rehab,Straight Leg Raises,2,13,Start with non-weight-bearing movements before progressing to standing exercises.
+ACL Tear,16,0,7,Late,Phase 4 - Return to Sport,Sport-Specific Drills,3,17,Assess movement patterns to ensure safe return to cutting & sprinting.
+ACL Tear,17,1,4,Mid,Phase 1 - Early Rehab,Heel Slides,2,14,Start with non-weight-bearing movements before progressing to standing exercises.
+ACL Tear,15,0,11,Full Return,Phase 2 - Strength,Squats,3,11,Gradually increase load while maintaining control. Strength before power!
+ACL Tear,33,1,6,Mid,Phase 3 - Agility & Power,Jump Rope,3,17,Work on controlled landings to prevent future injuries.
+ACL Tear,24,1,9,Late,Phase 2 - Strength,Squats,2,16,Focus on quad activation to stabilize the knee and prevent compensations.
+ACL Tear,35,1,8,Late,Phase 3 - Agility & Power,Jump Rope,3,13,Work on controlled landings to prevent future injuries.
+ACL Tear,35,0,4,Mid,Phase 4 - Return to Sport,Sprint Drills,2,18,Simulate game-like movements to prepare for real conditions.
+ACL Tear,31,0,11,Full Return,Phase 4 - Return to Sport,Sprint Drills,2,16,Simulate game-like movements to prepare for real conditions.
+ACL Tear,19,1,4,Mid,Phase 3 - Agility & Power,Jump Rope,2,18,Strengthen hip & core muscles for better knee alignment.
+ACL Tear,23,1,4,Mid,Phase 1 - Early Rehab,Quad Sets,3,18,Use ice and compression to manage pain. Perform gentle ROM exercises.
+ACL Tear,27,0,6,Mid,Phase 1 - Early Rehab,Straight Leg Raises,3,18,Start with non-weight-bearing movements before progressing to standing exercises.
+ACL Tear,26,0,10,Full Return,Phase 4 - Return to Sport,Sprint Drills,2,13,Simulate game-like movements to prepare for real conditions.
+ACL Tear,29,1,8,Late,Phase 1 - Early Rehab,Ankle Pumps,3,18,Start with non-weight-bearing movements before progressing to standing exercises.
+ACL Tear,35,1,8,Late,Phase 3 - Agility & Power,Bounding Drills,2,16,Work on controlled landings to prevent future injuries.
+ACL Tear,35,1,5,Mid,Phase 3 - Agility & Power,Lateral Drills,2,19,Work on controlled landings to prevent future injuries.
+ACL Tear,17,0,8,Late,Phase 3 - Agility & Power,Depth Jumps,3,18,Incorporate lateral movements to regain multi-directional control.
+ACL Tear,26,0,8,Late,Phase 2 - Strength,Squats,3,17,Focus on quad activation to stabilize the knee and prevent compensations.
+ACL Tear,23,1,6,Mid,Phase 2 - Strength,Lunges,2,14,Focus on quad activation to stabilize the knee and prevent compensations.
+ACL Tear,33,1,11,Full Return,Phase 1 - Early Rehab,Heel Slides,3,13,Focus on mobility and reducing swelling. Avoid excessive strain.
+ACL Tear,21,0,8,Late,Phase 4 - Return to Sport,Sprint Drills,3,12,Plyometrics should be introduced carefully—start slow & progress intensity.
+ACL Tear,26,1,10,Full Return,Phase 3 - Agility & Power,Lateral Drills,3,12,Strengthen hip & core muscles for better knee alignment.
+ACL Tear,17,0,8,Late,Phase 2 - Strength,Leg Press,3,19,Gradually increase load while maintaining control. Strength before power!
+ACL Tear,23,0,4,Mid,Phase 3 - Agility & Power,Jump Rope,3,18,Strengthen hip & core muscles for better knee alignment.
+ACL Tear,31,0,11,Full Return,Phase 1 - Early Rehab,Quad Sets,2,15,Use ice and compression to manage pain. Perform gentle ROM exercises.
+ACL Tear,26,0,11,Full Return,Phase 1 - Early Rehab,Heel Slides,2,14,Use ice and compression to manage pain. Perform gentle ROM exercises.
+ACL Tear,35,0,7,Late,Phase 1 - Early Rehab,Straight Leg Raises,2,12,Focus on mobility and reducing swelling. Avoid excessive strain.
+ACL Tear,32,0,4,Mid,Phase 1 - Early Rehab,Quad Sets,2,10,Focus on mobility and reducing swelling. Avoid excessive strain.
+ACL Tear,36,1,6,Mid,Phase 4 - Return to Sport,Sport-Specific Drills,2,19,Assess movement patterns to ensure safe return to cutting & sprinting.
+ACL Tear,26,1,7,Late,Phase 1 - Early Rehab,Straight Leg Raises,3,13,Use ice and compression to manage pain. Perform gentle ROM exercises.
+ACL Tear,22,1,7,Late,Phase 2 - Strength,Leg Press,3,14,Gradually increase load while maintaining control. Strength before power!
+ACL Tear,18,1,6,Mid,Phase 2 - Strength,Squats,2,18,Gradually increase load while maintaining control. Strength before power!
+ACL Tear,35,1,8,Late,Phase 4 - Return to Sport,Box Jumps,2,12,Plyometrics should be introduced carefully—start slow & progress intensity.
+ACL Tear,20,1,6,Mid,Phase 4 - Return to Sport,Box Jumps,2,18,Assess movement patterns to ensure safe return to cutting & sprinting.
+ACL Tear,24,1,9,Late,Phase 2 - Strength,Squats,2,14,Avoid excessive fatigue; overtraining can slow recovery.
+ACL Tear,38,0,9,Late,Phase 1 - Early Rehab,Quad Sets,3,10,Start with non-weight-bearing movements before progressing to standing exercises.
+ACL Tear,35,1,10,Full Return,Phase 1 - Early Rehab,Quad Sets,2,10,Focus on mobility and reducing swelling. Avoid excessive strain.
+ACL Tear,15,1,4,Mid,Phase 3 - Agility & Power,Depth Jumps,2,14,Strengthen hip & core muscles for better knee alignment.
+ACL Tear,20,1,4,Mid,Phase 1 - Early Rehab,Ankle Pumps,2,15,Start with non-weight-bearing movements before progressing to standing exercises.
+ACL Tear,35,0,8,Late,Phase 1 - Early Rehab,Heel Slides,3,19,Start with non-weight-bearing movements before progressing to standing exercises.
+ACL Tear,31,0,9,Late,Phase 1 - Early Rehab,Quad Sets,2,12,Focus on mobility and reducing swelling. Avoid excessive strain.
+ACL Tear,27,1,9,Late,Phase 1 - Early Rehab,Heel Slides,3,11,Start with non-weight-bearing movements before progressing to standing exercises.
+ACL Tear,22,0,5,Mid,Phase 2 - Strength,Lunges,3,15,Avoid excessive fatigue; overtraining can slow recovery.
+ACL Tear,32,1,4,Mid,Phase 2 - Strength,Leg Press,2,18,Gradually increase load while maintaining control. Strength before power!
+ACL Tear,30,0,10,Full Return,Phase 3 - Agility & Power,Depth Jumps,2,14,Incorporate lateral movements to regain multi-directional control.
+ACL Tear,16,0,6,Mid,Phase 3 - Agility & Power,Lateral Drills,3,11,Incorporate lateral movements to regain multi-directional control.
+ACL Tear,32,1,5,Mid,Phase 2 - Strength,Squats,2,12,Avoid excessive fatigue; overtraining can slow recovery.
+ACL Tear,16,1,4,Mid,Phase 2 - Strength,Step-ups,3,16,Focus on quad activation to stabilize the knee and prevent compensations.
+ACL Tear,33,0,8,Late,Phase 1 - Early Rehab,Straight Leg Raises,3,17,Focus on mobility and reducing swelling. Avoid excessive strain.
+ACL Tear,24,0,7,Late,Phase 4 - Return to Sport,Box Jumps,3,15,Plyometrics should be introduced carefully—start slow & progress intensity.
+ACL Tear,16,0,9,Late,Phase 3 - Agility & Power,Depth Jumps,3,12,Strengthen hip & core muscles for better knee alignment.
+ACL Tear,39,0,10,Full Return,Phase 4 - Return to Sport,Sport-Specific Drills,2,15,Plyometrics should be introduced carefully—start slow & progress intensity.
+ACL Tear,17,1,6,Mid,Phase 3 - Agility & Power,Jump Rope,3,11,Work on controlled landings to prevent future injuries.
+ACL Tear,33,0,8,Late,Phase 1 - Early Rehab,Quad Sets,3,19,Focus on mobility and reducing swelling. Avoid excessive strain.
+ACL Tear,36,0,9,Late,Phase 1 - Early Rehab,Heel Slides,2,19,Use ice and compression to manage pain. Perform gentle ROM exercises.
+ACL Tear,16,0,9,Late,Phase 2 - Strength,Step-ups,2,18,Focus on quad activation to stabilize the knee and prevent compensations.
+ACL Tear,39,0,4,Mid,Phase 2 - Strength,Squats,3,10,Focus on quad activation to stabilize the knee and prevent compensations.
+ACL Tear,18,0,11,Full Return,Phase 1 - Early Rehab,Ankle Pumps,2,13,Start with non-weight-bearing movements before progressing to standing exercises.
+ACL Tear,29,0,11,Full Return,Phase 2 - Strength,Lunges,3,16,Focus on quad activation to stabilize the knee and prevent compensations.
+ACL Tear,38,1,8,Late,Phase 2 - Strength,Lunges,2,17,Avoid excessive fatigue; overtraining can slow recovery.
+ACL Tear,21,0,10,Full Return,Phase 3 - Agility & Power,Lateral Drills,2,11,Incorporate lateral movements to regain multi-directional control.
+ACL Tear,20,0,6,Mid,Phase 3 - Agility & Power,Bounding Drills,2,16,Work on controlled landings to prevent future injuries.
+ACL Tear,24,0,4,Mid,Phase 1 - Early Rehab,Ankle Pumps,3,19,Use ice and compression to manage pain. Perform gentle ROM exercises.
+ACL Tear,26,0,4,Mid,Phase 1 - Early Rehab,Straight Leg Raises,2,13,Use ice and compression to manage pain. Perform gentle ROM exercises.
+ACL Tear,17,0,8,Late,Phase 2 - Strength,Squats,3,15,Focus on quad activation to stabilize the knee and prevent compensations.
+ACL Tear,29,1,11,Full Return,Phase 1 - Early Rehab,Straight Leg Raises,2,19,Focus on mobility and reducing swelling. Avoid excessive strain.
+ACL Tear,19,1,7,Late,Phase 2 - Strength,Leg Press,3,17,Avoid excessive fatigue; overtraining can slow recovery.
+ACL Tear,27,1,8,Late,Phase 1 - Early Rehab,Heel Slides,2,15,Focus on mobility and reducing swelling. Avoid excessive strain.
+ACL Tear,20,1,10,Full Return,Phase 4 - Return to Sport,Sprint Drills,2,17,Simulate game-like movements to prepare for real conditions.
+ACL Tear,23,0,6,Mid,Phase 3 - Agility & Power,Depth Jumps,3,14,Strengthen hip & core muscles for better knee alignment.
+ACL Tear,20,1,7,Late,Phase 4 - Return to Sport,Sport-Specific Drills,3,15,Assess movement patterns to ensure safe return to cutting & sprinting.
+ACL Tear,31,1,11,Full Return,Phase 2 - Strength,Squats,3,18,Focus on quad activation to stabilize the knee and prevent compensations.
+ACL Tear,29,0,11,Full Return,Phase 2 - Strength,Squats,2,14,Focus on quad activation to stabilize the knee and prevent compensations.
+ACL Tear,36,1,6,Mid,Phase 4 - Return to Sport,Box Jumps,3,10,Simulate game-like movements to prepare for real conditions.
+ACL Tear,15,1,9,Late,Phase 4 - Return to Sport,Sprint Drills,2,13,Plyometrics should be introduced carefully—start slow & progress intensity.
+ACL Tear,25,0,4,Mid,Phase 2 - Strength,Lunges,3,19,Gradually increase load while maintaining control. Strength before power!
+ACL Tear,37,1,7,Late,Phase 2 - Strength,Step-ups,3,11,Gradually increase load while maintaining control. Strength before power!
+ACL Tear,19,0,4,Mid,Phase 1 - Early Rehab,Ankle Pumps,2,17,Use ice and compression to manage pain. Perform gentle ROM exercises.
+ACL Tear,37,0,9,Late,Phase 3 - Agility & Power,Jump Rope,2,11,Incorporate lateral movements to regain multi-directional control.
+ACL Tear,35,1,6,Mid,Phase 1 - Early Rehab,Quad Sets,3,12,Start with non-weight-bearing movements before progressing to standing exercises.
+ACL Tear,15,1,11,Full Return,Phase 2 - Strength,Leg Press,3,17,Avoid excessive fatigue; overtraining can slow recovery.
+ACL Tear,23,0,9,Late,Phase 4 - Return to Sport,Sprint Drills,2,14,Plyometrics should be introduced carefully—start slow & progress intensity.
+ACL Tear,19,0,6,Mid,Phase 2 - Strength,Lunges,3,13,Gradually increase load while maintaining control. Strength before power!
+ACL Tear,27,1,4,Mid,Phase 2 - Strength,Leg Press,3,16,Focus on quad activation to stabilize the knee and prevent compensations.
+ACL Tear,33,0,9,Late,Phase 1 - Early Rehab,Ankle Pumps,2,10,Focus on mobility and reducing swelling. Avoid excessive strain.
+ACL Tear,31,0,10,Full Return,Phase 3 - Agility & Power,Lateral Drills,3,14,Strengthen hip & core muscles for better knee alignment.
+ACL Tear,21,0,9,Late,Phase 2 - Strength,Squats,2,12,Focus on quad activation to stabilize the knee and prevent compensations.
+ACL Tear,34,0,10,Full Return,Phase 1 - Early Rehab,Heel Slides,3,16,Start with non-weight-bearing movements before progressing to standing exercises.
+ACL Tear,18,0,9,Late,Phase 1 - Early Rehab,Heel Slides,2,14,Start with non-weight-bearing movements before progressing to standing exercises.
+ACL Tear,37,0,9,Late,Phase 4 - Return to Sport,Sprint Drills,3,19,Plyometrics should be introduced carefully—start slow & progress intensity.
+ACL Tear,24,0,9,Late,Phase 2 - Strength,Step-ups,2,13,Gradually increase load while maintaining control. Strength before power!
+ACL Tear,38,1,11,Full Return,Phase 3 - Agility & Power,Jump Rope,3,14,Work on controlled landings to prevent future injuries.
+ACL Tear,29,1,7,Late,Phase 1 - Early Rehab,Quad Sets,2,12,Start with non-weight-bearing movements before progressing to standing exercises.
+ACL Tear,18,1,5,Mid,Phase 3 - Agility & Power,Depth Jumps,2,13,Strengthen hip & core muscles for better knee alignment.
+ACL Tear,24,1,9,Late,Phase 2 - Strength,Leg Press,2,19,Focus on quad activation to stabilize the knee and prevent compensations.
+ACL Tear,25,1,5,Mid,Phase 1 - Early Rehab,Straight Leg Raises,3,11,Focus on mobility and reducing swelling. Avoid excessive strain.
+ACL Tear,15,0,11,Full Return,Phase 4 - Return to Sport,Sport-Specific Drills,3,13,Plyometrics should be introduced carefully—start slow & progress intensity.
+ACL Tear,38,0,11,Full Return,Phase 3 - Agility & Power,Lateral Drills,2,19,Work on controlled landings to prevent future injuries.
+ACL Tear,36,0,8,Late,Phase 2 - Strength,Leg Press,2,15,Avoid excessive fatigue; overtraining can slow recovery.
+ACL Tear,37,0,9,Late,Phase 1 - Early Rehab,Heel Slides,3,13,Use ice and compression to manage pain. Perform gentle ROM exercises.
+ACL Tear,37,0,4,Mid,Phase 3 - Agility & Power,Lateral Drills,2,12,Strengthen hip & core muscles for better knee alignment.
+ACL Tear,35,0,4,Mid,Phase 1 - Early Rehab,Heel Slides,3,13,Focus on mobility and reducing swelling. Avoid excessive strain.
+ACL Tear,35,1,4,Mid,Phase 3 - Agility & Power,Depth Jumps,3,18,Incorporate lateral movements to regain multi-directional control.
+ACL Tear,25,1,5,Mid,Phase 3 - Agility & Power,Lateral Drills,2,11,Strengthen hip & core muscles for better knee alignment.
+ACL Tear,31,1,6,Mid,Phase 3 - Agility & Power,Bounding Drills,2,12,Incorporate lateral movements to regain multi-directional control.
+ACL Tear,38,0,10,Full Return,Phase 4 - Return to Sport,Sprint Drills,2,17,Plyometrics should be introduced carefully—start slow & progress intensity.
+ACL Tear,31,0,10,Full Return,Phase 3 - Agility & Power,Lateral Drills,3,11,Work on controlled landings to prevent future injuries.
+ACL Tear,31,0,4,Mid,Phase 4 - Return to Sport,Box Jumps,2,13,Assess movement patterns to ensure safe return to cutting & sprinting.
+ACL Tear,36,1,10,Full Return,Phase 1 - Early Rehab,Straight Leg Raises,2,16,Focus on mobility and reducing swelling. Avoid excessive strain.
+ACL Tear,27,1,10,Full Return,Phase 3 - Agility & Power,Depth Jumps,3,12,Incorporate lateral movements to regain multi-directional control.
+ACL Tear,31,0,8,Late,Phase 2 - Strength,Leg Press,3,12,Focus on quad activation to stabilize the knee and prevent compensations.
+ACL Tear,15,1,6,Mid,Phase 3 - Agility & Power,Lateral Drills,3,15,Work on controlled landings to prevent future injuries.
+ACL Tear,32,1,9,Late,Phase 3 - Agility & Power,Depth Jumps,3,10,Work on controlled landings to prevent future injuries.
+ACL Tear,37,0,6,Mid,Phase 4 - Return to Sport,Sprint Drills,3,12,Assess movement patterns to ensure safe return to cutting & sprinting.
+ACL Tear,16,1,4,Mid,Phase 3 - Agility & Power,Depth Jumps,3,11,Strengthen hip & core muscles for better knee alignment.
+ACL Tear,22,0,4,Mid,Phase 3 - Agility & Power,Depth Jumps,3,16,Strengthen hip & core muscles for better knee alignment.
+ACL Tear,22,1,4,Mid,Phase 3 - Agility & Power,Jump Rope,2,12,Work on controlled landings to prevent future injuries.
+ACL Tear,29,1,5,Mid,Phase 3 - Agility & Power,Bounding Drills,3,17,Incorporate lateral movements to regain multi-directional control.
+ACL Tear,25,1,7,Late,Phase 4 - Return to Sport,Box Jumps,3,14,Assess movement patterns to ensure safe return to cutting & sprinting.
+ACL Tear,37,1,5,Mid,Phase 3 - Agility & Power,Lateral Drills,2,10,Strengthen hip & core muscles for better knee alignment.
+ACL Tear,35,0,11,Full Return,Phase 1 - Early Rehab,Ankle Pumps,3,11,Use ice and compression to manage pain. Perform gentle ROM exercises.
+ACL Tear,15,0,8,Late,Phase 4 - Return to Sport,Sport-Specific Drills,3,11,Simulate game-like movements to prepare for real conditions.
+ACL Tear,37,0,7,Late,Phase 4 - Return to Sport,Box Jumps,2,15,Assess movement patterns to ensure safe return to cutting & sprinting.
+ACL Tear,23,1,8,Late,Phase 4 - Return to Sport,Sport-Specific Drills,3,19,Assess movement patterns to ensure safe return to cutting & sprinting.
+ACL Tear,26,1,4,Mid,Phase 2 - Strength,Lunges,3,16,Gradually increase load while maintaining control. Strength before power!
+ACL Tear,32,0,4,Mid,Phase 2 - Strength,Step-ups,3,11,Gradually increase load while maintaining control. Strength before power!
+ACL Tear,39,0,4,Mid,Phase 2 - Strength,Lunges,2,13,Focus on quad activation to stabilize the knee and prevent compensations.
+ACL Tear,27,1,10,Full Return,Phase 1 - Early Rehab,Ankle Pumps,3,11,Focus on mobility and reducing swelling. Avoid excessive strain.
+ACL Tear,24,1,4,Mid,Phase 2 - Strength,Lunges,2,14,Gradually increase load while maintaining control. Strength before power!
+ACL Tear,20,1,7,Late,Phase 3 - Agility & Power,Jump Rope,3,15,Work on controlled landings to prevent future injuries.
+ACL Tear,39,0,9,Late,Phase 3 - Agility & Power,Bounding Drills,3,18,Work on controlled landings to prevent future injuries.
+ACL Tear,21,1,8,Late,Phase 1 - Early Rehab,Quad Sets,2,19,Use ice and compression to manage pain. Perform gentle ROM exercises.
+ACL Tear,16,1,9,Late,Phase 3 - Agility & Power,Jump Rope,2,14,Strengthen hip & core muscles for better knee alignment.
+ACL Tear,35,0,11,Full Return,Phase 3 - Agility & Power,Bounding Drills,3,10,Strengthen hip & core muscles for better knee alignment.
+ACL Tear,21,1,6,Mid,Phase 2 - Strength,Lunges,2,17,Focus on quad activation to stabilize the knee and prevent compensations.
+ACL Tear,36,0,11,Full Return,Phase 1 - Early Rehab,Quad Sets,3,13,Start with non-weight-bearing movements before progressing to standing exercises.
+ACL Tear,17,1,6,Mid,Phase 1 - Early Rehab,Quad Sets,2,11,Focus on mobility and reducing swelling. Avoid excessive strain.
+ACL Tear,16,0,4,Mid,Phase 1 - Early Rehab,Straight Leg Raises,2,10,Focus on mobility and reducing swelling. Avoid excessive strain.
+ACL Tear,25,1,5,Mid,Phase 1 - Early Rehab,Ankle Pumps,2,12,Use ice and compression to manage pain. Perform gentle ROM exercises.
+ACL Tear,19,1,7,Late,Phase 3 - Agility & Power,Lateral Drills,3,11,Strengthen hip & core muscles for better knee alignment.
+ACL Tear,19,1,6,Mid,Phase 3 - Agility & Power,Jump Rope,2,10,Incorporate lateral movements to regain multi-directional control.
+ACL Tear,39,0,4,Mid,Phase 3 - Agility & Power,Bounding Drills,3,17,Strengthen hip & core muscles for better knee alignment.
+ACL Tear,22,0,8,Late,Phase 1 - Early Rehab,Ankle Pumps,2,15,Use ice and compression to manage pain. Perform gentle ROM exercises.
+ACL Tear,22,0,5,Mid,Phase 1 - Early Rehab,Straight Leg Raises,2,19,Focus on mobility and reducing swelling. Avoid excessive strain.
+ACL Tear,27,1,10,Full Return,Phase 4 - Return to Sport,Sprint Drills,3,16,Plyometrics should be introduced carefully—start slow & progress intensity.
+ACL Tear,37,1,8,Late,Phase 2 - Strength,Lunges,2,14,Avoid excessive fatigue; overtraining can slow recovery.
+ACL Tear,23,0,11,Full Return,Phase 4 - Return to Sport,Sprint Drills,2,16,Plyometrics should be introduced carefully—start slow & progress intensity.
+ACL Tear,32,0,9,Late,Phase 4 - Return to Sport,Sport-Specific Drills,2,11,Simulate game-like movements to prepare for real conditions.
+ACL Tear,24,0,4,Mid,Phase 2 - Strength,Squats,3,12,Gradually increase load while maintaining control. Strength before power!
+ACL Tear,16,0,8,Late,Phase 3 - Agility & Power,Bounding Drills,3,16,Strengthen hip & core muscles for better knee alignment.
+ACL Tear,26,0,10,Full Return,Phase 4 - Return to Sport,Box Jumps,3,15,Plyometrics should be introduced carefully—start slow & progress intensity.
+ACL Tear,27,1,4,Mid,Phase 4 - Return to Sport,Box Jumps,3,11,Simulate game-like movements to prepare for real conditions.
+ACL Tear,17,1,5,Mid,Phase 2 - Strength,Squats,2,11,Avoid excessive fatigue; overtraining can slow recovery.
+ACL Tear,21,1,7,Late,Phase 1 - Early Rehab,Quad Sets,2,14,Focus on mobility and reducing swelling. Avoid excessive strain.
+ACL Tear,30,1,7,Late,Phase 3 - Agility & Power,Jump Rope,3,18,Strengthen hip & core muscles for better knee alignment.
+ACL Tear,21,1,8,Late,Phase 1 - Early Rehab,Quad Sets,2,12,Focus on mobility and reducing swelling. Avoid excessive strain.
+ACL Tear,28,1,9,Late,Phase 2 - Strength,Leg Press,3,14,Gradually increase load while maintaining control. Strength before power!
+ACL Tear,30,0,8,Late,Phase 2 - Strength,Squats,2,10,Gradually increase load while maintaining control. Strength before power!
+ACL Tear,38,1,7,Late,Phase 3 - Agility & Power,Lateral Drills,2,14,Strengthen hip & core muscles for better knee alignment.
+ACL Tear,20,0,11,Full Return,Phase 3 - Agility & Power,Lateral Drills,3,11,Work on controlled landings to prevent future injuries.
+ACL Tear,21,1,7,Late,Phase 3 - Agility & Power,Bounding Drills,3,15,Work on controlled landings to prevent future injuries.
+ACL Tear,33,0,9,Late,Phase 2 - Strength,Squats,3,18,Focus on quad activation to stabilize the knee and prevent compensations.
+ACL Tear,23,0,5,Mid,Phase 3 - Agility & Power,Bounding Drills,3,14,Work on controlled landings to prevent future injuries.
+ACL Tear,36,0,10,Full Return,Phase 1 - Early Rehab,Heel Slides,2,13,Use ice and compression to manage pain. Perform gentle ROM exercises.
+ACL Tear,31,0,6,Mid,Phase 2 - Strength,Squats,3,11,Focus on quad activation to stabilize the knee and prevent compensations.
+ACL Tear,31,1,6,Mid,Phase 4 - Return to Sport,Sport-Specific Drills,3,17,Plyometrics should be introduced carefully—start slow & progress intensity.
+ACL Tear,29,0,4,Mid,Phase 4 - Return to Sport,Sprint Drills,2,11,Simulate game-like movements to prepare for real conditions.
+ACL Tear,23,1,6,Mid,Phase 3 - Agility & Power,Bounding Drills,2,18,Strengthen hip & core muscles for better knee alignment.
+ACL Tear,39,1,7,Late,Phase 2 - Strength,Step-ups,2,17,Gradually increase load while maintaining control. Strength before power!
+ACL Tear,19,0,6,Mid,Phase 2 - Strength,Leg Press,3,15,Avoid excessive fatigue; overtraining can slow recovery.
+ACL Tear,19,1,5,Mid,Phase 2 - Strength,Lunges,2,14,Gradually increase load while maintaining control. Strength before power!
+ACL Tear,31,1,11,Full Return,Phase 1 - Early Rehab,Straight Leg Raises,3,12,Use ice and compression to manage pain. Perform gentle ROM exercises.
+ACL Tear,17,1,11,Full Return,Phase 2 - Strength,Leg Press,2,10,Focus on quad activation to stabilize the knee and prevent compensations.
+ACL Tear,38,0,11,Full Return,Phase 4 - Return to Sport,Box Jumps,2,18,Plyometrics should be introduced carefully—start slow & progress intensity.
+ACL Tear,25,0,4,Mid,Phase 1 - Early Rehab,Quad Sets,3,15,Start with non-weight-bearing movements before progressing to standing exercises.
+ACL Tear,19,0,8,Late,Phase 2 - Strength,Step-ups,2,16,Focus on quad activation to stabilize the knee and prevent compensations.
+ACL Tear,24,1,6,Mid,Phase 1 - Early Rehab,Quad Sets,2,11,Use ice and compression to manage pain. Perform gentle ROM exercises.
+ACL Tear,28,0,8,Late,Phase 4 - Return to Sport,Sport-Specific Drills,3,10,Plyometrics should be introduced carefully—start slow & progress intensity.
+ACL Tear,31,1,10,Full Return,Phase 2 - Strength,Leg Press,3,17,Gradually increase load while maintaining control. Strength before power!
+ACL Tear,17,1,9,Late,Phase 3 - Agility & Power,Lateral Drills,2,19,Work on controlled landings to prevent future injuries.
+ACL Tear,16,0,7,Late,Phase 4 - Return to Sport,Sport-Specific Drills,3,14,Plyometrics should be introduced carefully—start slow & progress intensity.
+ACL Tear,36,1,7,Late,Phase 4 - Return to Sport,Sprint Drills,3,10,Assess movement patterns to ensure safe return to cutting & sprinting.
+ACL Tear,31,1,9,Late,Phase 1 - Early Rehab,Quad Sets,3,17,Start with non-weight-bearing movements before progressing to standing exercises.
+ACL Tear,32,1,9,Late,Phase 4 - Return to Sport,Sport-Specific Drills,2,13,Simulate game-like movements to prepare for real conditions.
+ACL Tear,17,1,8,Late,Phase 4 - Return to Sport,Sport-Specific Drills,2,10,Assess movement patterns to ensure safe return to cutting & sprinting.
+ACL Tear,29,0,11,Full Return,Phase 3 - Agility & Power,Depth Jumps,3,16,Incorporate lateral movements to regain multi-directional control.
+ACL Tear,16,1,5,Mid,Phase 1 - Early Rehab,Straight Leg Raises,2,12,Focus on mobility and reducing swelling. Avoid excessive strain.
+ACL Tear,23,0,10,Full Return,Phase 3 - Agility & Power,Jump Rope,2,13,Incorporate lateral movements to regain multi-directional control.
+ACL Tear,29,1,7,Late,Phase 2 - Strength,Squats,2,12,Gradually increase load while maintaining control. Strength before power!
+ACL Tear,26,1,7,Late,Phase 1 - Early Rehab,Heel Slides,2,14,Start with non-weight-bearing movements before progressing to standing exercises.
+ACL Tear,34,1,6,Mid,Phase 1 - Early Rehab,Heel Slides,2,10,Use ice and compression to manage pain. Perform gentle ROM exercises.
+ACL Tear,20,0,5,Mid,Phase 1 - Early Rehab,Ankle Pumps,3,10,Focus on mobility and reducing swelling. Avoid excessive strain.
+ACL Tear,38,1,5,Mid,Phase 3 - Agility & Power,Bounding Drills,3,17,Incorporate lateral movements to regain multi-directional control.
+ACL Tear,39,0,8,Late,Phase 1 - Early Rehab,Straight Leg Raises,2,11,Start with non-weight-bearing movements before progressing to standing exercises.
+ACL Tear,17,0,11,Full Return,Phase 4 - Return to Sport,Box Jumps,3,19,Simulate game-like movements to prepare for real conditions.
+ACL Tear,34,1,10,Full Return,Phase 1 - Early Rehab,Quad Sets,3,16,Focus on mobility and reducing swelling. Avoid excessive strain.
+ACL Tear,26,1,7,Late,Phase 1 - Early Rehab,Quad Sets,3,18,Start with non-weight-bearing movements before progressing to standing exercises.
+ACL Tear,36,1,8,Late,Phase 1 - Early Rehab,Quad Sets,3,17,Start with non-weight-bearing movements before progressing to standing exercises.
+ACL Tear,27,0,11,Full Return,Phase 1 - Early Rehab,Quad Sets,3,11,Use ice and compression to manage pain. Perform gentle ROM exercises.
+ACL Tear,29,0,9,Late,Phase 4 - Return to Sport,Sport-Specific Drills,2,18,Plyometrics should be introduced carefully—start slow & progress intensity.
+ACL Tear,20,0,11,Full Return,Phase 3 - Agility & Power,Lateral Drills,2,17,Work on controlled landings to prevent future injuries.
+ACL Tear,31,1,4,Mid,Phase 2 - Strength,Leg Press,2,15,Focus on quad activation to stabilize the knee and prevent compensations.
+ACL Tear,34,0,5,Mid,Phase 4 - Return to Sport,Sprint Drills,3,10,Assess movement patterns to ensure safe return to cutting & sprinting.
+ACL Tear,15,0,4,Mid,Phase 1 - Early Rehab,Quad Sets,2,13,Use ice and compression to manage pain. Perform gentle ROM exercises.
+ACL Tear,36,0,5,Mid,Phase 2 - Strength,Squats,3,19,Focus on quad activation to stabilize the knee and prevent compensations.
+ACL Tear,29,1,5,Mid,Phase 3 - Agility & Power,Bounding Drills,2,17,Strengthen hip & core muscles for better knee alignment.
+ACL Tear,17,0,9,Late,Phase 1 - Early Rehab,Quad Sets,2,16,Start with non-weight-bearing movements before progressing to standing exercises.
+ACL Tear,23,1,7,Late,Phase 4 - Return to Sport,Sprint Drills,3,13,Assess movement patterns to ensure safe return to cutting & sprinting.
+ACL Tear,29,0,10,Full Return,Phase 3 - Agility & Power,Depth Jumps,3,13,Incorporate lateral movements to regain multi-directional control.
+ACL Tear,36,1,10,Full Return,Phase 3 - Agility & Power,Depth Jumps,2,19,Incorporate lateral movements to regain multi-directional control.
+ACL Tear,25,1,9,Late,Phase 4 - Return to Sport,Sport-Specific Drills,3,18,Plyometrics should be introduced carefully—start slow & progress intensity.
+ACL Tear,33,1,6,Mid,Phase 3 - Agility & Power,Lateral Drills,3,17,Work on controlled landings to prevent future injuries.
+ACL Tear,37,0,10,Full Return,Phase 4 - Return to Sport,Sport-Specific Drills,3,11,Assess movement patterns to ensure safe return to cutting & sprinting.
+ACL Tear,32,0,9,Late,Phase 1 - Early Rehab,Straight Leg Raises,3,18,Start with non-weight-bearing movements before progressing to standing exercises.
+ACL Tear,17,1,5,Mid,Phase 3 - Agility & Power,Depth Jumps,2,15,Strengthen hip & core muscles for better knee alignment.
+ACL Tear,29,0,10,Full Return,Phase 4 - Return to Sport,Box Jumps,3,14,Simulate game-like movements to prepare for real conditions.
+ACL Tear,38,1,8,Late,Phase 4 - Return to Sport,Sprint Drills,3,17,Assess movement patterns to ensure safe return to cutting & sprinting.
+ACL Tear,31,0,11,Full Return,Phase 1 - Early Rehab,Straight Leg Raises,3,14,Use ice and compression to manage pain. Perform gentle ROM exercises.
+ACL Tear,18,1,10,Full Return,Phase 2 - Strength,Leg Press,3,16,Focus on quad activation to stabilize the knee and prevent compensations.
+ACL Tear,33,0,5,Mid,Phase 2 - Strength,Step-ups,3,12,Gradually increase load while maintaining control. Strength before power!
+ACL Tear,32,1,8,Late,Phase 3 - Agility & Power,Jump Rope,2,19,Incorporate lateral movements to regain multi-directional control.
+ACL Tear,37,1,7,Late,Phase 2 - Strength,Lunges,3,16,Gradually increase load while maintaining control. Strength before power!
+ACL Tear,19,1,8,Late,Phase 1 - Early Rehab,Quad Sets,3,17,Start with non-weight-bearing movements before progressing to standing exercises.
+ACL Tear,39,1,5,Mid,Phase 3 - Agility & Power,Lateral Drills,2,18,Work on controlled landings to prevent future injuries.
+ACL Tear,16,0,8,Late,Phase 1 - Early Rehab,Ankle Pumps,2,17,Focus on mobility and reducing swelling. Avoid excessive strain.
+ACL Tear,37,0,10,Full Return,Phase 3 - Agility & Power,Lateral Drills,2,15,Incorporate lateral movements to regain multi-directional control.
+ACL Tear,30,1,8,Late,Phase 2 - Strength,Leg Press,3,18,Gradually increase load while maintaining control. Strength before power!
+ACL Tear,19,1,11,Full Return,Phase 3 - Agility & Power,Bounding Drills,2,18,Incorporate lateral movements to regain multi-directional control.
+ACL Tear,34,1,4,Mid,Phase 3 - Agility & Power,Jump Rope,2,14,Work on controlled landings to prevent future injuries.
+ACL Tear,31,0,11,Full Return,Phase 4 - Return to Sport,Sport-Specific Drills,2,15,Simulate game-like movements to prepare for real conditions.
+ACL Tear,34,1,9,Late,Phase 2 - Strength,Step-ups,2,14,Focus on quad activation to stabilize the knee and prevent compensations.
+ACL Tear,15,0,6,Mid,Phase 2 - Strength,Step-ups,2,14,Gradually increase load while maintaining control. Strength before power!
+ACL Tear,31,0,9,Late,Phase 4 - Return to Sport,Sprint Drills,3,14,Assess movement patterns to ensure safe return to cutting & sprinting.
+ACL Tear,38,0,6,Mid,Phase 2 - Strength,Lunges,2,11,Gradually increase load while maintaining control. Strength before power!
+ACL Tear,39,0,10,Full Return,Phase 4 - Return to Sport,Sport-Specific Drills,2,11,Simulate game-like movements to prepare for real conditions.
+ACL Tear,26,1,7,Late,Phase 3 - Agility & Power,Bounding Drills,3,13,Incorporate lateral movements to regain multi-directional control.
+ACL Tear,24,1,10,Full Return,Phase 4 - Return to Sport,Sprint Drills,2,10,Simulate game-like movements to prepare for real conditions.
+ACL Tear,22,0,11,Full Return,Phase 2 - Strength,Step-ups,2,15,Avoid excessive fatigue; overtraining can slow recovery.
+ACL Tear,16,0,10,Full Return,Phase 3 - Agility & Power,Lateral Drills,2,19,Incorporate lateral movements to regain multi-directional control.
+ACL Tear,32,1,4,Mid,Phase 2 - Strength,Leg Press,2,17,Gradually increase load while maintaining control. Strength before power!
+ACL Tear,26,0,11,Full Return,Phase 1 - Early Rehab,Quad Sets,3,10,Focus on mobility and reducing swelling. Avoid excessive strain.
+ACL Tear,33,0,11,Full Return,Phase 2 - Strength,Step-ups,3,14,Gradually increase load while maintaining control. Strength before power!
+ACL Tear,16,1,11,Full Return,Phase 2 - Strength,Squats,2,10,Gradually increase load while maintaining control. Strength before power!
+ACL Tear,39,1,8,Late,Phase 1 - Early Rehab,Heel Slides,2,18,Start with non-weight-bearing movements before progressing to standing exercises.
+ACL Tear,18,1,8,Late,Phase 2 - Strength,Lunges,3,15,Avoid excessive fatigue; overtraining can slow recovery.
+ACL Tear,20,1,5,Mid,Phase 1 - Early Rehab,Heel Slides,2,12,Focus on mobility and reducing swelling. Avoid excessive strain.
+ACL Tear,25,0,11,Full Return,Phase 2 - Strength,Lunges,2,18,Gradually increase load while maintaining control. Strength before power!
+ACL Tear,29,0,7,Late,Phase 2 - Strength,Squats,2,14,Avoid excessive fatigue; overtraining can slow recovery.
+ACL Tear,39,0,4,Mid,Phase 4 - Return to Sport,Box Jumps,2,15,Assess movement patterns to ensure safe return to cutting & sprinting.
+ACL Tear,25,0,11,Full Return,Phase 2 - Strength,Lunges,3,11,Focus on quad activation to stabilize the knee and prevent compensations.
+ACL Tear,23,0,8,Late,Phase 2 - Strength,Leg Press,3,11,Focus on quad activation to stabilize the knee and prevent compensations.
+ACL Tear,35,0,5,Mid,Phase 1 - Early Rehab,Straight Leg Raises,2,11,Focus on mobility and reducing swelling. Avoid excessive strain.
+ACL Tear,29,1,7,Late,Phase 3 - Agility & Power,Depth Jumps,3,16,Incorporate lateral movements to regain multi-directional control.
+ACL Tear,28,1,7,Late,Phase 3 - Agility & Power,Depth Jumps,2,14,Strengthen hip & core muscles for better knee alignment.
+ACL Tear,25,0,11,Full Return,Phase 3 - Agility & Power,Jump Rope,3,18,Strengthen hip & core muscles for better knee alignment.
+ACL Tear,33,0,7,Late,Phase 1 - Early Rehab,Heel Slides,3,12,Use ice and compression to manage pain. Perform gentle ROM exercises.
+ACL Tear,28,0,7,Late,Phase 4 - Return to Sport,Box Jumps,3,12,Assess movement patterns to ensure safe return to cutting & sprinting.
+ACL Tear,18,1,5,Mid,Phase 2 - Strength,Step-ups,2,13,Focus on quad activation to stabilize the knee and prevent compensations.
+ACL Tear,39,1,6,Mid,Phase 3 - Agility & Power,Depth Jumps,3,19,Strengthen hip & core muscles for better knee alignment.
+ACL Tear,27,0,10,Full Return,Phase 3 - Agility & Power,Bounding Drills,2,19,Work on controlled landings to prevent future injuries.
+ACL Tear,24,1,7,Late,Phase 4 - Return to Sport,Sprint Drills,2,15,Plyometrics should be introduced carefully—start slow & progress intensity.
+ACL Tear,26,1,8,Late,Phase 2 - Strength,Squats,2,16,Focus on quad activation to stabilize the knee and prevent compensations.
+ACL Tear,36,0,9,Late,Phase 4 - Return to Sport,Box Jumps,3,18,Simulate game-like movements to prepare for real conditions.
+ACL Tear,24,1,5,Mid,Phase 1 - Early Rehab,Heel Slides,3,17,Focus on mobility and reducing swelling. Avoid excessive strain.
+ACL Tear,19,1,5,Mid,Phase 4 - Return to Sport,Sport-Specific Drills,3,16,Assess movement patterns to ensure safe return to cutting & sprinting.
+ACL Tear,39,1,6,Mid,Phase 4 - Return to Sport,Sprint Drills,2,16,Assess movement patterns to ensure safe return to cutting & sprinting.
+ACL Tear,19,0,4,Mid,Phase 3 - Agility & Power,Bounding Drills,3,10,Strengthen hip & core muscles for better knee alignment.
+ACL Tear,35,0,9,Late,Phase 4 - Return to Sport,Box Jumps,2,12,Simulate game-like movements to prepare for real conditions.
+ACL Tear,25,1,4,Mid,Phase 2 - Strength,Step-ups,2,18,Focus on quad activation to stabilize the knee and prevent compensations.
+ACL Tear,39,1,11,Full Return,Phase 3 - Agility & Power,Depth Jumps,2,11,Strengthen hip & core muscles for better knee alignment.
+ACL Tear,24,1,8,Late,Phase 3 - Agility & Power,Jump Rope,2,16,Incorporate lateral movements to regain multi-directional control.
+ACL Tear,33,1,5,Mid,Phase 2 - Strength,Lunges,3,16,Gradually increase load while maintaining control. Strength before power!
+ACL Tear,28,1,11,Full Return,Phase 1 - Early Rehab,Heel Slides,3,12,Focus on mobility and reducing swelling. Avoid excessive strain.
+ACL Tear,22,0,6,Mid,Phase 2 - Strength,Step-ups,2,13,Gradually increase load while maintaining control. Strength before power!
+ACL Tear,31,1,5,Mid,Phase 4 - Return to Sport,Box Jumps,3,14,Assess movement patterns to ensure safe return to cutting & sprinting.
+ACL Tear,22,1,6,Mid,Phase 2 - Strength,Leg Press,2,19,Avoid excessive fatigue; overtraining can slow recovery.
+ACL Tear,36,1,5,Mid,Phase 3 - Agility & Power,Bounding Drills,3,15,Work on controlled landings to prevent future injuries.
+ACL Tear,17,1,10,Full Return,Phase 2 - Strength,Leg Press,3,15,Focus on quad activation to stabilize the knee and prevent compensations.
+ACL Tear,18,0,8,Late,Phase 1 - Early Rehab,Ankle Pumps,2,18,Start with non-weight-bearing movements before progressing to standing exercises.
+ACL Tear,30,1,9,Late,Phase 2 - Strength,Step-ups,2,10,Avoid excessive fatigue; overtraining can slow recovery.
+ACL Tear,30,1,8,Late,Phase 3 - Agility & Power,Bounding Drills,2,17,Incorporate lateral movements to regain multi-directional control.
+ACL Tear,19,1,11,Full Return,Phase 4 - Return to Sport,Box Jumps,2,14,Assess movement patterns to ensure safe return to cutting & sprinting.
+ACL Tear,36,1,11,Full Return,Phase 3 - Agility & Power,Bounding Drills,2,14,Incorporate lateral movements to regain multi-directional control.
+ACL Tear,34,1,8,Late,Phase 2 - Strength,Leg Press,2,16,Focus on quad activation to stabilize the knee and prevent compensations.
+ACL Tear,27,1,4,Mid,Phase 1 - Early Rehab,Quad Sets,2,18,Focus on mobility and reducing swelling. Avoid excessive strain.
+ACL Tear,15,0,6,Mid,Phase 4 - Return to Sport,Sprint Drills,2,19,Assess movement patterns to ensure safe return to cutting & sprinting.
+ACL Tear,37,1,6,Mid,Phase 2 - Strength,Squats,2,15,Gradually increase load while maintaining control. Strength before power!
+ACL Tear,34,1,7,Late,Phase 3 - Agility & Power,Jump Rope,3,15,Incorporate lateral movements to regain multi-directional control.
+ACL Tear,27,0,9,Late,Phase 4 - Return to Sport,Sprint Drills,3,15,Simulate game-like movements to prepare for real conditions.
+ACL Tear,30,0,7,Late,Phase 2 - Strength,Step-ups,2,14,Avoid excessive fatigue; overtraining can slow recovery.
+ACL Tear,16,0,5,Mid,Phase 3 - Agility & Power,Lateral Drills,3,13,Incorporate lateral movements to regain multi-directional control.
+ACL Tear,24,0,5,Mid,Phase 1 - Early Rehab,Heel Slides,3,10,Start with non-weight-bearing movements before progressing to standing exercises.
+ACL Tear,28,0,9,Late,Phase 4 - Return to Sport,Sprint Drills,3,13,Simulate game-like movements to prepare for real conditions.
+ACL Tear,17,0,9,Late,Phase 1 - Early Rehab,Heel Slides,2,11,Focus on mobility and reducing swelling. Avoid excessive strain.
+ACL Tear,16,1,4,Mid,Phase 3 - Agility & Power,Bounding Drills,2,13,Incorporate lateral movements to regain multi-directional control.
+ACL Tear,20,1,8,Late,Phase 3 - Agility & Power,Lateral Drills,3,16,Strengthen hip & core muscles for better knee alignment.
+ACL Tear,33,0,6,Mid,Phase 2 - Strength,Lunges,2,11,Focus on quad activation to stabilize the knee and prevent compensations.
+ACL Tear,25,1,8,Late,Phase 3 - Agility & Power,Bounding Drills,2,18,Strengthen hip & core muscles for better knee alignment.
+ACL Tear,33,0,6,Mid,Phase 1 - Early Rehab,Heel Slides,3,12,Start with non-weight-bearing movements before progressing to standing exercises.
+ACL Tear,30,1,7,Late,Phase 1 - Early Rehab,Straight Leg Raises,3,16,Focus on mobility and reducing swelling. Avoid excessive strain.
+ACL Tear,19,0,7,Late,Phase 4 - Return to Sport,Box Jumps,3,13,Assess movement patterns to ensure safe return to cutting & sprinting.
+ACL Tear,21,1,10,Full Return,Phase 1 - Early Rehab,Straight Leg Raises,2,12,Start with non-weight-bearing movements before progressing to standing exercises.
+ACL Tear,36,1,10,Full Return,Phase 1 - Early Rehab,Heel Slides,3,14,Use ice and compression to manage pain. Perform gentle ROM exercises.
+ACL Tear,37,1,9,Late,Phase 3 - Agility & Power,Jump Rope,3,15,Strengthen hip & core muscles for better knee alignment.
+ACL Tear,35,1,10,Full Return,Phase 2 - Strength,Leg Press,2,14,Gradually increase load while maintaining control. Strength before power!
+ACL Tear,27,0,5,Mid,Phase 2 - Strength,Step-ups,2,14,Focus on quad activation to stabilize the knee and prevent compensations.
+ACL Tear,19,0,11,Full Return,Phase 4 - Return to Sport,Box Jumps,2,10,Simulate game-like movements to prepare for real conditions.
+ACL Tear,35,1,11,Full Return,Phase 3 - Agility & Power,Jump Rope,3,13,Incorporate lateral movements to regain multi-directional control.
+ACL Tear,34,1,7,Late,Phase 2 - Strength,Leg Press,2,18,Gradually increase load while maintaining control. Strength before power!
+ACL Tear,34,0,9,Late,Phase 2 - Strength,Step-ups,3,10,Gradually increase load while maintaining control. Strength before power!
+ACL Tear,31,1,4,Mid,Phase 1 - Early Rehab,Heel Slides,3,10,Use ice and compression to manage pain. Perform gentle ROM exercises.
+ACL Tear,32,1,11,Full Return,Phase 4 - Return to Sport,Box Jumps,3,16,Assess movement patterns to ensure safe return to cutting & sprinting.
+ACL Tear,22,0,9,Late,Phase 4 - Return to Sport,Box Jumps,2,10,Simulate game-like movements to prepare for real conditions.
+ACL Tear,38,0,6,Mid,Phase 1 - Early Rehab,Straight Leg Raises,3,10,Start with non-weight-bearing movements before progressing to standing exercises.
+ACL Tear,19,1,8,Late,Phase 4 - Return to Sport,Box Jumps,2,10,Plyometrics should be introduced carefully—start slow & progress intensity.
+ACL Tear,33,1,6,Mid,Phase 4 - Return to Sport,Box Jumps,2,13,Plyometrics should be introduced carefully—start slow & progress intensity.
+ACL Tear,22,1,10,Full Return,Phase 2 - Strength,Leg Press,2,13,Avoid excessive fatigue; overtraining can slow recovery.
+ACL Tear,33,0,6,Mid,Phase 4 - Return to Sport,Sport-Specific Drills,2,19,Plyometrics should be introduced carefully—start slow & progress intensity.
+ACL Tear,19,1,9,Late,Phase 4 - Return to Sport,Sprint Drills,3,10,Simulate game-like movements to prepare for real conditions.
+ACL Tear,22,1,11,Full Return,Phase 1 - Early Rehab,Heel Slides,3,11,Start with non-weight-bearing movements before progressing to standing exercises.
+ACL Tear,31,1,9,Late,Phase 4 - Return to Sport,Sprint Drills,2,18,Plyometrics should be introduced carefully—start slow & progress intensity.
+ACL Tear,37,1,10,Full Return,Phase 2 - Strength,Lunges,2,13,Avoid excessive fatigue; overtraining can slow recovery.
+ACL Tear,22,1,9,Late,Phase 1 - Early Rehab,Heel Slides,3,11,Start with non-weight-bearing movements before progressing to standing exercises.
+ACL Tear,24,0,4,Mid,Phase 4 - Return to Sport,Sprint Drills,2,18,Plyometrics should be introduced carefully—start slow & progress intensity.
+ACL Tear,22,0,9,Late,Phase 4 - Return to Sport,Sprint Drills,2,11,Assess movement patterns to ensure safe return to cutting & sprinting.
+ACL Tear,34,1,7,Late,Phase 1 - Early Rehab,Straight Leg Raises,3,12,Use ice and compression to manage pain. Perform gentle ROM exercises.
+ACL Tear,31,1,8,Late,Phase 3 - Agility & Power,Lateral Drills,3,16,Strengthen hip & core muscles for better knee alignment.
+ACL Tear,31,1,4,Mid,Phase 3 - Agility & Power,Lateral Drills,2,14,Incorporate lateral movements to regain multi-directional control.
+ACL Tear,22,1,11,Full Return,Phase 2 - Strength,Squats,2,15,Focus on quad activation to stabilize the knee and prevent compensations.
+ACL Tear,25,0,9,Late,Phase 4 - Return to Sport,Box Jumps,2,11,Assess movement patterns to ensure safe return to cutting & sprinting.
+ACL Tear,35,0,7,Late,Phase 3 - Agility & Power,Lateral Drills,2,12,Strengthen hip & core muscles for better knee alignment.
+ACL Tear,38,1,8,Late,Phase 2 - Strength,Squats,2,10,Avoid excessive fatigue; overtraining can slow recovery.
+ACL Tear,36,0,10,Full Return,Phase 1 - Early Rehab,Quad Sets,2,18,Focus on mobility and reducing swelling. Avoid excessive strain.
+ACL Tear,29,1,5,Mid,Phase 2 - Strength,Leg Press,3,10,Gradually increase load while maintaining control. Strength before power!
+ACL Tear,17,0,7,Late,Phase 4 - Return to Sport,Sport-Specific Drills,3,19,Assess movement patterns to ensure safe return to cutting & sprinting.
+ACL Tear,25,0,5,Mid,Phase 1 - Early Rehab,Straight Leg Raises,3,16,Start with non-weight-bearing movements before progressing to standing exercises.
+ACL Tear,16,0,11,Full Return,Phase 1 - Early Rehab,Heel Slides,3,13,Use ice and compression to manage pain. Perform gentle ROM exercises.
+ACL Tear,24,1,5,Mid,Phase 2 - Strength,Leg Press,2,18,Focus on quad activation to stabilize the knee and prevent compensations.
+ACL Tear,35,0,7,Late,Phase 3 - Agility & Power,Bounding Drills,2,16,Incorporate lateral movements to regain multi-directional control.
+ACL Tear,38,0,8,Late,Phase 2 - Strength,Leg Press,2,13,Focus on quad activation to stabilize the knee and prevent compensations.
+ACL Tear,38,1,6,Mid,Phase 2 - Strength,Step-ups,3,14,Focus on quad activation to stabilize the knee and prevent compensations.
+ACL Tear,22,0,8,Late,Phase 2 - Strength,Lunges,3,13,Gradually increase load while maintaining control. Strength before power!
+ACL Tear,27,1,4,Mid,Phase 3 - Agility & Power,Depth Jumps,3,12,Work on controlled landings to prevent future injuries.
+ACL Tear,30,1,10,Full Return,Phase 4 - Return to Sport,Sprint Drills,3,11,Assess movement patterns to ensure safe return to cutting & sprinting.
+ACL Tear,32,0,10,Full Return,Phase 4 - Return to Sport,Sport-Specific Drills,2,12,Assess movement patterns to ensure safe return to cutting & sprinting.
+ACL Tear,38,0,7,Late,Phase 2 - Strength,Lunges,3,14,Avoid excessive fatigue; overtraining can slow recovery.
+ACL Tear,18,1,6,Mid,Phase 4 - Return to Sport,Box Jumps,3,16,Plyometrics should be introduced carefully—start slow & progress intensity.
+ACL Tear,37,0,5,Mid,Phase 3 - Agility & Power,Bounding Drills,2,18,Incorporate lateral movements to regain multi-directional control.
+ACL Tear,27,0,4,Mid,Phase 2 - Strength,Leg Press,3,15,Avoid excessive fatigue; overtraining can slow recovery.
+ACL Tear,28,1,6,Mid,Phase 3 - Agility & Power,Jump Rope,3,14,Work on controlled landings to prevent future injuries.
+ACL Tear,34,0,5,Mid,Phase 2 - Strength,Squats,2,10,Focus on quad activation to stabilize the knee and prevent compensations.
+ACL Tear,36,0,9,Late,Phase 1 - Early Rehab,Ankle Pumps,2,12,Focus on mobility and reducing swelling. Avoid excessive strain.
+ACL Tear,33,1,6,Mid,Phase 2 - Strength,Lunges,2,14,Gradually increase load while maintaining control. Strength before power!
+ACL Tear,19,1,4,Mid,Phase 1 - Early Rehab,Quad Sets,3,14,Use ice and compression to manage pain. Perform gentle ROM exercises.
+ACL Tear,18,1,10,Full Return,Phase 3 - Agility & Power,Lateral Drills,2,10,Work on controlled landings to prevent future injuries.
+ACL Tear,18,1,4,Mid,Phase 2 - Strength,Lunges,3,18,Avoid excessive fatigue; overtraining can slow recovery.
+ACL Tear,34,1,4,Mid,Phase 4 - Return to Sport,Box Jumps,3,17,Assess movement patterns to ensure safe return to cutting & sprinting.
+ACL Tear,36,1,10,Full Return,Phase 3 - Agility & Power,Depth Jumps,3,17,Incorporate lateral movements to regain multi-directional control.
+ACL Tear,30,1,9,Late,Phase 3 - Agility & Power,Lateral Drills,2,15,Work on controlled landings to prevent future injuries.
+ACL Tear,27,1,11,Full Return,Phase 3 - Agility & Power,Bounding Drills,3,19,Strengthen hip & core muscles for better knee alignment.
+ACL Tear,39,0,7,Late,Phase 2 - Strength,Step-ups,2,16,Focus on quad activation to stabilize the knee and prevent compensations.
+ACL Tear,29,1,11,Full Return,Phase 4 - Return to Sport,Sport-Specific Drills,3,17,Simulate game-like movements to prepare for real conditions.
+ACL Tear,30,0,8,Late,Phase 2 - Strength,Lunges,3,17,Focus on quad activation to stabilize the knee and prevent compensations.
+ACL Tear,39,0,5,Mid,Phase 1 - Early Rehab,Quad Sets,2,12,Start with non-weight-bearing movements before progressing to standing exercises.
+ACL Tear,19,1,4,Mid,Phase 3 - Agility & Power,Depth Jumps,2,14,Work on controlled landings to prevent future injuries.
+ACL Tear,23,0,5,Mid,Phase 1 - Early Rehab,Straight Leg Raises,2,19,Focus on mobility and reducing swelling. Avoid excessive strain.
+ACL Tear,21,1,10,Full Return,Phase 1 - Early Rehab,Heel Slides,3,11,Use ice and compression to manage pain. Perform gentle ROM exercises.
+ACL Tear,25,0,10,Full Return,Phase 2 - Strength,Step-ups,2,11,Focus on quad activation to stabilize the knee and prevent compensations.
+ACL Tear,28,1,5,Mid,Phase 1 - Early Rehab,Quad Sets,2,14,Use ice and compression to manage pain. Perform gentle ROM exercises.
+ACL Tear,36,1,4,Mid,Phase 2 - Strength,Lunges,3,12,Gradually increase load while maintaining control. Strength before power!
+ACL Tear,21,1,7,Late,Phase 4 - Return to Sport,Sport-Specific Drills,3,15,Simulate game-like movements to prepare for real conditions.
+ACL Tear,24,0,11,Full Return,Phase 3 - Agility & Power,Depth Jumps,2,16,Work on controlled landings to prevent future injuries.
+ACL Tear,34,1,10,Full Return,Phase 4 - Return to Sport,Sprint Drills,3,15,Simulate game-like movements to prepare for real conditions.
+ACL Tear,38,1,8,Late,Phase 3 - Agility & Power,Lateral Drills,3,18,Incorporate lateral movements to regain multi-directional control.
+ACL Tear,31,0,5,Mid,Phase 1 - Early Rehab,Straight Leg Raises,3,12,Focus on mobility and reducing swelling. Avoid excessive strain.
+ACL Tear,24,1,6,Mid,Phase 2 - Strength,Squats,3,16,Gradually increase load while maintaining control. Strength before power!
+ACL Tear,32,0,6,Mid,Phase 1 - Early Rehab,Ankle Pumps,2,17,Use ice and compression to manage pain. Perform gentle ROM exercises.
+ACL Tear,22,1,7,Late,Phase 4 - Return to Sport,Box Jumps,3,14,Plyometrics should be introduced carefully—start slow & progress intensity.
+ACL Tear,22,0,4,Mid,Phase 3 - Agility & Power,Depth Jumps,3,17,Incorporate lateral movements to regain multi-directional control.
+ACL Tear,24,1,7,Late,Phase 2 - Strength,Leg Press,3,16,Avoid excessive fatigue; overtraining can slow recovery.
+ACL Tear,27,0,6,Mid,Phase 2 - Strength,Squats,3,15,Gradually increase load while maintaining control. Strength before power!
+ACL Tear,15,0,11,Full Return,Phase 4 - Return to Sport,Box Jumps,3,14,Assess movement patterns to ensure safe return to cutting & sprinting.
+ACL Tear,20,1,9,Late,Phase 3 - Agility & Power,Bounding Drills,2,16,Work on controlled landings to prevent future injuries.
+ACL Tear,27,0,8,Late,Phase 1 - Early Rehab,Quad Sets,2,11,Use ice and compression to manage pain. Perform gentle ROM exercises.
+ACL Tear,37,1,6,Mid,Phase 1 - Early Rehab,Heel Slides,2,10,Focus on mobility and reducing swelling. Avoid excessive strain.
+ACL Tear,34,1,5,Mid,Phase 2 - Strength,Lunges,2,12,Gradually increase load while maintaining control. Strength before power!
+ACL Tear,23,1,9,Late,Phase 2 - Strength,Lunges,2,18,Avoid excessive fatigue; overtraining can slow recovery.
+ACL Tear,16,0,7,Late,Phase 4 - Return to Sport,Box Jumps,2,17,Assess movement patterns to ensure safe return to cutting & sprinting.
+ACL Tear,36,0,7,Late,Phase 4 - Return to Sport,Sprint Drills,3,14,Assess movement patterns to ensure safe return to cutting & sprinting.
+ACL Tear,15,0,6,Mid,Phase 4 - Return to Sport,Sprint Drills,2,12,Simulate game-like movements to prepare for real conditions.
+ACL Tear,32,1,6,Mid,Phase 1 - Early Rehab,Ankle Pumps,3,15,Focus on mobility and reducing swelling. Avoid excessive strain.
+ACL Tear,19,1,6,Mid,Phase 2 - Strength,Squats,2,12,Gradually increase load while maintaining control. Strength before power!
+ACL Tear,34,0,11,Full Return,Phase 2 - Strength,Lunges,2,17,Avoid excessive fatigue; overtraining can slow recovery.
+ACL Tear,21,1,4,Mid,Phase 4 - Return to Sport,Box Jumps,3,16,Simulate game-like movements to prepare for real conditions.
+ACL Tear,17,1,5,Mid,Phase 1 - Early Rehab,Ankle Pumps,3,14,Start with non-weight-bearing movements before progressing to standing exercises.
+ACL Tear,39,0,8,Late,Phase 2 - Strength,Leg Press,3,13,Gradually increase load while maintaining control. Strength before power!
+ACL Tear,21,0,6,Mid,Phase 4 - Return to Sport,Box Jumps,2,11,Simulate game-like movements to prepare for real conditions.
+ACL Tear,15,1,6,Mid,Phase 3 - Agility & Power,Depth Jumps,2,11,Incorporate lateral movements to regain multi-directional control.
+ACL Tear,20,1,7,Late,Phase 1 - Early Rehab,Straight Leg Raises,3,12,Start with non-weight-bearing movements before progressing to standing exercises.
+ACL Tear,28,0,7,Late,Phase 1 - Early Rehab,Heel Slides,3,17,Use ice and compression to manage pain. Perform gentle ROM exercises.
+ACL Tear,20,0,9,Late,Phase 4 - Return to Sport,Box Jumps,2,12,Simulate game-like movements to prepare for real conditions.
+ACL Tear,24,0,4,Mid,Phase 4 - Return to Sport,Box Jumps,2,18,Simulate game-like movements to prepare for real conditions.
+ACL Tear,37,0,7,Late,Phase 3 - Agility & Power,Depth Jumps,3,17,Incorporate lateral movements to regain multi-directional control.
+ACL Tear,35,0,7,Late,Phase 4 - Return to Sport,Box Jumps,3,18,Plyometrics should be introduced carefully—start slow & progress intensity.
+ACL Tear,38,1,4,Mid,Phase 2 - Strength,Squats,2,12,Gradually increase load while maintaining control. Strength before power!
+ACL Tear,28,1,4,Mid,Phase 4 - Return to Sport,Sport-Specific Drills,3,17,Assess movement patterns to ensure safe return to cutting & sprinting.
+ACL Tear,23,0,9,Late,Phase 2 - Strength,Step-ups,3,16,Gradually increase load while maintaining control. Strength before power!
+ACL Tear,31,1,9,Late,Phase 4 - Return to Sport,Sport-Specific Drills,2,11,Plyometrics should be introduced carefully—start slow & progress intensity.
+ACL Tear,35,0,11,Full Return,Phase 4 - Return to Sport,Box Jumps,2,10,Plyometrics should be introduced carefully—start slow & progress intensity.
+ACL Tear,23,0,4,Mid,Phase 4 - Return to Sport,Sport-Specific Drills,2,11,Plyometrics should be introduced carefully—start slow & progress intensity.
+ACL Tear,22,0,10,Full Return,Phase 3 - Agility & Power,Bounding Drills,3,15,Incorporate lateral movements to regain multi-directional control.
+ACL Tear,29,0,4,Mid,Phase 3 - Agility & Power,Lateral Drills,3,15,Work on controlled landings to prevent future injuries.
+ACL Tear,33,1,7,Late,Phase 1 - Early Rehab,Heel Slides,2,13,Start with non-weight-bearing movements before progressing to standing exercises.
+ACL Tear,21,1,7,Late,Phase 4 - Return to Sport,Sprint Drills,3,12,Assess movement patterns to ensure safe return to cutting & sprinting.
+ACL Tear,26,1,11,Full Return,Phase 2 - Strength,Squats,2,18,Gradually increase load while maintaining control. Strength before power!
+ACL Tear,22,0,9,Late,Phase 2 - Strength,Lunges,2,11,Gradually increase load while maintaining control. Strength before power!
+ACL Tear,26,1,5,Mid,Phase 3 - Agility & Power,Bounding Drills,2,19,Work on controlled landings to prevent future injuries.
+ACL Tear,39,0,8,Late,Phase 1 - Early Rehab,Ankle Pumps,3,12,Focus on mobility and reducing swelling. Avoid excessive strain.
+ACL Tear,34,1,4,Mid,Phase 1 - Early Rehab,Heel Slides,3,10,Use ice and compression to manage pain. Perform gentle ROM exercises.
+ACL Tear,31,1,11,Full Return,Phase 3 - Agility & Power,Bounding Drills,3,10,Incorporate lateral movements to regain multi-directional control.
+ACL Tear,21,0,8,Late,Phase 1 - Early Rehab,Straight Leg Raises,3,19,Start with non-weight-bearing movements before progressing to standing exercises.
+ACL Tear,36,1,4,Mid,Phase 1 - Early Rehab,Straight Leg Raises,2,10,Focus on mobility and reducing swelling. Avoid excessive strain.
+ACL Tear,31,1,8,Late,Phase 3 - Agility & Power,Depth Jumps,2,16,Work on controlled landings to prevent future injuries.
+ACL Tear,21,0,11,Full Return,Phase 3 - Agility & Power,Lateral Drills,2,10,Strengthen hip & core muscles for better knee alignment.
+ACL Tear,26,1,11,Full Return,Phase 1 - Early Rehab,Heel Slides,2,10,Focus on mobility and reducing swelling. Avoid excessive strain.
+ACL Tear,21,1,5,Mid,Phase 1 - Early Rehab,Straight Leg Raises,2,16,Use ice and compression to manage pain. Perform gentle ROM exercises.
+ACL Tear,27,0,10,Full Return,Phase 1 - Early Rehab,Ankle Pumps,3,11,Use ice and compression to manage pain. Perform gentle ROM exercises.
+ACL Tear,16,1,9,Late,Phase 1 - Early Rehab,Ankle Pumps,3,11,Focus on mobility and reducing swelling. Avoid excessive strain.
